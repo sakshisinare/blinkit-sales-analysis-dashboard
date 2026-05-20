@@ -23,3 +23,6 @@ This project is a Power BI dashboard developed to analyze BlinkIt sales performa
 4. Dashboard Creation
 5. Insight Generation
 
+## Dashboard Preview
+![Dashboard](blinkitdashboard.png)
+
